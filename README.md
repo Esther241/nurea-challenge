@@ -16,26 +16,28 @@ This is an application that displays patients' a dashboard tracking vital parame
 
 #### Backend
 
-1. **Acces BackEnd:**
-   - cd backend
-2. **Install Python dependencies:**
+1. **Acces Backend:**
+   ```bash
+   cd backend
+3. **Install Python dependencies:**
    - Run the following command to install all required dependencies :
    ```bash
    pip install -r requirements.txt
-3. **Start the Python development server**
+4. **Start the Python development server**
    - Use the following command to start the Python project in development mode:
    ```bash
    uvicorn main:app --reload
 
-#### FrontEnd
+#### Frontend
 
-1. **Acces FrontEnd:**
-   - cd frontend
-2. **Install Vue dependencies:**
+1. **Acces Frontend:**
+   ```bash
+   cd frontend
+3. **Install Vue dependencies:**
    - run the following command :
    ```bash
    npm install
-3. **Start the Vue.js development server**
+4. **Start the Vue.js development server**
    - Use the following command to start the Vue.js project in development mode:
    ```bash
    npm run dev
