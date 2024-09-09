@@ -45,4 +45,14 @@ This is an application that displays patients' a dashboard tracking vital parame
 
 ![nurea-graphs](https://github.com/user-attachments/assets/d3507dae-1eff-4e3f-b5ff-741a9671e97e)
 
+#### Technologies Used
+
+This project uses the following technologies:
+- **Python**
+- **FastAPI**
+- **VueJS**
+- **Vuetify**
+- **Chart.js**
+
+
 
