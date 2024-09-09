@@ -11,7 +11,7 @@ This is an application that displays patients' a dashboard tracking vital parame
 
 - **Frontend :**
   - Node.js must be installed. You can download Node.js [here](https://nodejs.org/).
-  - 
+    
 ### Installation Steps
 
 #### Backend
@@ -25,6 +25,7 @@ This is an application that displays patients' a dashboard tracking vital parame
 3. **Start the Python development server**
    - Use the following command to start the Python project in development mode:
    ```bash
+   uvicorn main:app --reload
    
 
 #### FrontEnd
@@ -38,10 +39,12 @@ This is an application that displays patients' a dashboard tracking vital parame
 3. **Start the Vue.js development server**
    - Use the following command to start the Vue.js project in development mode:
    ```bash
-   npm run server
+   npm run dev
 
 
-   
 
+![nurea-dashboard](https://github.com/user-attachments/assets/52994175-33c4-4b57-aeca-48edc16c8430)
+
+![nurea-graphs](https://github.com/user-attachments/assets/d3507dae-1eff-4e3f-b5ff-741a9671e97e)
 
 
