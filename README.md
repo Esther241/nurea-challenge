@@ -26,7 +26,6 @@ This is an application that displays patients' a dashboard tracking vital parame
    - Use the following command to start the Python project in development mode:
    ```bash
    uvicorn main:app --reload
-   
 
 #### FrontEnd
 
